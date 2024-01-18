@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "292363679356",
+    "project_id": "favorite-flyer-ceb38",
+    "storage_bucket": "favorite-flyer-ceb38.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292363679356:android:7b436322d0ee2ff68a7bf9",
+        "android_client_info": {
+          "package_name": "com.favoriteflyer.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "292363679356-iurv5ndplcnaqs8qrp0g10nou451pi2u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmv5J6qJvi2mEGPYXvMniokHGahJM1fVo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "292363679356-iurv5ndplcnaqs8qrp0g10nou451pi2u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
